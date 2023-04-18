@@ -1,7 +1,7 @@
 Hi 👋 My name is Engin Serçe
 ============================
 
-Junior Software Developer
+Software Developer
 --------------------
 
 I keep improving myself every day to be better.
